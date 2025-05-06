@@ -18,21 +18,21 @@ Optimizar las rutas de entrega urbana media:
 
 ---
 
-## 🗃️ Datos utilizados
+## ?? ¦ Datos utilizados
 
-### 1. [`items_peso_volumen_ubicacion_clustering.csv`]([[data/items_peso_volumen_ubicacion_clustering.csv](https://github.com/CristianZafra/Ruteo-de-ltima-Milla-con-IoT-K-means-OpenRouteService-y-AMoGA-GIS/blob/main/items_peso_volumen_ubicacion_clustering.csv](https://github.com/CristianZafra/Ruteo-de-ltima-Milla-con-IoT-K-means-OpenRouteService-y-AMoGA-GIS/blob/f8db1319b9ff68879e7aa031f5e04dbed751076d/items_peso_volumen_ubicacion_clustering.csv)))
+### 1. [`artículos_peso_volumen_ubicacion_clustering.csv`](https://github.com/CristianZafra/Ruteo-de-ltima-Milla-con-IoT-K-means-OpenRouteService-y-AMoGA-GIS/blob/main/items_peso_volumen_ubicacion_clustering.csv)
 
-Archivo con datos simulados de entregas que incluye:
+Archivo con datos simulados de entregas que incluyen:
 
 - Coordenadas geográficas de los puntos de entrega
-- Peso y volumen de cada ítem
-- Datos útiles para aplicar técnicas de clustering (K-means)
+- Peso y volumen de cada tema
+- Datos útiles para aplicar técnicas de agrupamiento 
 
-### 2. [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+### 2. [Conjunto de datos de comercio eléctrico brasileño de Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-Descargado automáticamente mediante `kagglehub` con el siguiente código:
+Descargado automático medio `kagglehub` código con el señor:
 
-```python
-import kagglehub
-path = kagglehub.dataset_download("olistbr/brazilian-ecommerce")
+```pitón
+importar kagglehub
+ruta = kagglehub.dataset_download("olistbr/brasilian-ecommerce")
 
