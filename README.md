@@ -20,7 +20,7 @@ Optimizar las rutas de entrega urbana media:
 
 ## 🗃️ Datos utilizados
 
-### 1. [`items_peso_volumen_ubicacion_clustering.csv`]([data/items_peso_volumen_ubicacion_clustering.csv](https://github.com/CristianZafra/Ruteo-de-ltima-Milla-con-IoT-K-means-OpenRouteService-y-AMoGA-GIS/blob/main/items_peso_volumen_ubicacion_clustering.csv))
+### 1. [`items_peso_volumen_ubicacion_clustering.csv`]([[data/items_peso_volumen_ubicacion_clustering.csv](https://github.com/CristianZafra/Ruteo-de-ltima-Milla-con-IoT-K-means-OpenRouteService-y-AMoGA-GIS/blob/main/items_peso_volumen_ubicacion_clustering.csv](https://github.com/CristianZafra/Ruteo-de-ltima-Milla-con-IoT-K-means-OpenRouteService-y-AMoGA-GIS/blob/f8db1319b9ff68879e7aa031f5e04dbed751076d/items_peso_volumen_ubicacion_clustering.csv)))
 
 Archivo con datos simulados de entregas que incluye:
 
