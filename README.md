@@ -16,3 +16,23 @@ Optimizar las rutas de entrega urbana media:
 
 ## 📁 Estructura del Proyecto
 
+---
+
+## 🗃️ Datos utilizados
+
+### 1. [`items_peso_volumen_ubicacion_clustering.csv`](data/items_peso_volumen_ubicacion_clustering.csv)
+
+Archivo con datos simulados de entregas que incluye:
+
+- Coordenadas geográficas de los puntos de entrega
+- Peso y volumen de cada ítem
+- Datos útiles para aplicar técnicas de clustering (K-means)
+
+### 2. [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+Descargado automáticamente mediante `kagglehub` con el siguiente código:
+
+```python
+import kagglehub
+path = kagglehub.dataset_download("olistbr/brazilian-ecommerce")
+
